@@ -1,2 +1,2 @@
-# blog.aermored.com
-AERMORed blog
+# blog.glitchopsllc.com
+GlitchOps blog
